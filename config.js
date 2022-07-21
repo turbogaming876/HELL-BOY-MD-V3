@@ -23,25 +23,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['917561823024'] //ur owner number
-global.ownername = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
-global.ytname = "YT: ʜᴇʟʟ ʙᴏʏ" //ur yt chanel name
+global.owner = ['2349131783574'] //ur owner number
+global.ownername = "𝐎𝐛𝐢𝐳𝐳𝐲"
+global.ytname = "YT: 𝐎𝐛𝐢𝐳𝐳𝐲" //ur yt chanel name
 global.socialm = "GitHub: HELLBOY7561" //ur github or insta name
-global.location = "India, Kerala, Idukki" //ur location
+global.location = "nigheria, africa, loufs" //ur location
 
 //bot bombdy
-global.botname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ" //ur bot name
+global.botname = "OBIZZY BOT MD" //ur bot name
 global.websitex = "https://youtube.com/channel/UCWOF5p3b7rRlEgN-f3S3V0w" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "ʜᴇʟʟ ʙᴏʏ ᴍᴅ ʙʏ"
-global.author = "𝛨𝛴𝐿𝐿 𝛣𝛳𝑌"
+global.packname = "BOT MD V4"
+global.author = "OBIZZY"
 global.themeemoji = "❏"
 global.reactmoji = "🌝"
-global.ownertag = ['917561823024'] //ur owner tag
-global.ownernummenu = ['917561823024'] //ur owner number in menu and all
-global.botscript = "https://github.com/HELLBOY7561/HELL-BOY-MD-V3"
-global.linkz1 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
-global.linkz2 = "https://chat.whatsapp.com/CoyDq2bXKMzEhS27ttAX7U"
+global.ownertag = ['2349131783574'] //ur owner tag
+global.ownernummenu = ['2349131783574'] //ur owner number in menu and all
+global.botscript = "https://github.com/turbogaming876/DarcoVampire-MD"
+global.linkz1 = "https://chat.whatsapp.com/"
+global.linkz2 = "https://chat.whatsapp.com/"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
